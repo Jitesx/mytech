@@ -1,0 +1,2 @@
+# mytech
+my first repo.
